@@ -1,0 +1,32 @@
+  "titulo": " ",
+  "duracion": ,
+  "sinopsis": " ",
+  "year": ,
+  "genero": " ",
+  "directores": {
+    "director": [
+      {
+        "name": " ",
+        "edad": ,
+        "nacionalidad": 
+      }
+    ]
+  }
+
+------------------------------------------------
+{
+  "titulo": "Titanic ",
+  "duracion": 195,
+  "sinopsis": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+  "year": 1997,
+  "genero": "Romance",
+  "directores": {
+    "director": [
+      {
+        "name": "James Cameron ",
+        "edad": 60,
+        "nacionalidad": "USA"
+      }
+    ]
+  }
+}  
